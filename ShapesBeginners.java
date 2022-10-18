@@ -1,7 +1,6 @@
-import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class NewApplication {
+public class ShapesBeginners {
 
     static Scanner scanner = new Scanner(System.in);
 

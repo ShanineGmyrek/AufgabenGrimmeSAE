@@ -1,4 +1,4 @@
-public class NewApplication4 {
+public class Zahlenrechner {
     public static void main(String[] args){
         /*
         - 1 + 7 - 14 + 92

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class NewApplication3 {
+public class SchoenerName {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         System.out.println("Type in your name: ");

@@ -6,8 +6,6 @@ public class Summenrechner {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Type in the first Number");
         int number1 = scanner.nextInt();
-
-        Scanner scanner2 = new Scanner(System.in);
         System.out.println("Type in the second Number");
         int number2 = scanner.nextInt();
 
